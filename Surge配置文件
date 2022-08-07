@@ -1,6 +1,7 @@
 [General]
-# > 日志级别
+# > 日志级别(true=开启。false=关闭）
 loglevel = notify
+# > 拒绝显示错误页面
 show-error-page-for-reject = true
 # > 增强版 Wi-Fi 助理
 allow-wifi-access = false
@@ -33,7 +34,9 @@ tun-excluded-routes = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12
 tun-included-routes = 192.168.1.12/32
 # > Always Real IP Hosts
 always-real-ip = *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com*.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com, *.battlenet.com.cn, *.battlenet.com, *.blzstatic.cn, *.battle.net
+# > 隐藏VPN标志符（默认开启）PS：surge5开启IPv6 VIF auto则无法隐藏
 hide-vpn-icon = true
+# > WiFi辅助
 wifi-assist = false
 
 [Replica]
