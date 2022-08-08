@@ -3,7 +3,9 @@
 
 在此特别感谢原作者@Rabbit-Spec（原作者链接：https://github.com/Rabbit-Spec/Surge ）
 
-我的TG频道：https://t.me/mengyulianmian （可从频道进群咨询问题）
+我的TG频道：https://t.me/mengyulianmian 
+
+我的TG聊群：https://t.me/mengdelaochao
 
 感谢采用我的文件QwQ
 
