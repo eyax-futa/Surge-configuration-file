@@ -13,6 +13,8 @@
 点击红色框出的文件后复制全部粘贴至Surge即可（Surge需要以文本格式编辑）
 或者点击此处链接跳转：https://github.com/MengYuLianMian/Surge-configuration-file-MengRain/blob/main/Surge%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6
 
+PS：需要更多分流规则请看本文章最底部
+
 ![image](https://user-images.githubusercontent.com/89105781/183338800-45d4df5c-f581-49f3-8ca9-3e28b4ccd22e.png)
 
 # 免责声明
