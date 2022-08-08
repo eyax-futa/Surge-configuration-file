@@ -7,6 +7,11 @@
 
 感谢采用我的文件QwQ
 
+# 使用方法
+点击红色框出的文件后复制全部粘贴至Surge即可（Surge需要以文本格式编辑）
+
+![image](https://user-images.githubusercontent.com/89105781/183338800-45d4df5c-f581-49f3-8ca9-3e28b4ccd22e.png)
+
 # 免责声明
 Rabbit-Spec 本仓库中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断。
 
