@@ -10,6 +10,8 @@
 感谢采用我的文件QwQ
 
 # 使用方法
+注意！！！Surge不支持SSR节点！！！不是配置问题！！！
+
 点击红色框出的文件后复制全部粘贴至Surge即可（Surge需要以文本格式编辑）
 
 或者复制后方链接在Surge中引用：https://raw.githubusercontent.com/MengYuLianMian/Surge-configuration-file-MengRain/main/Surge配置文件
