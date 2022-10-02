@@ -1,6 +1,6 @@
 # 前言
 
-在此特别感谢原作者 @Rabbit-Spec 提供的配置底子【如下图】（原作者链接：https://github.com/Rabbit-Spec/Surge ）
+在此特别感谢原作者 [@Rabbit-Spec](https://github.com/Rabbit-Spec/Surge) 提供的配置底子【如下图】
 
 ![image](https://user-images.githubusercontent.com/89105781/193441318-94ece490-1d69-4435-a740-a995955b6413.png)
 
