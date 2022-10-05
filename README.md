@@ -17,6 +17,8 @@
 
 或者复制后方链接在Surge中引用：https://raw.githubusercontent.com/MengYuLianMian/Surge-configuration-file-MengRain/main/Surge配置文件
 
+![image](https://user-images.githubusercontent.com/89105781/194056911-3fb06717-df47-4d8c-b366-4fb9da467f70.png)
+
 你的订阅链接需要替换到这里
 
 ![image](https://user-images.githubusercontent.com/89105781/194056911-3fb06717-df47-4d8c-b366-4fb9da467f70.png)
@@ -24,7 +26,6 @@
 
 PS：需要更多分流规则请看本文章最底部
 
-![image](https://user-images.githubusercontent.com/89105781/183338800-45d4df5c-f581-49f3-8ca9-3e28b4ccd22e.png)
 
 # 免责声明-MengRain
 MengRain 本仓库中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断。
