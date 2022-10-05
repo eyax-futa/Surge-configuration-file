@@ -17,9 +17,12 @@
 
 或者复制后方链接在Surge中引用：https://raw.githubusercontent.com/MengYuLianMian/Surge-configuration-file-MengRain/main/Surge配置文件
 
-![image](https://user-images.githubusercontent.com/89105781/194056911-3fb06717-df47-4d8c-b366-4fb9da467f70.png)
+![image](https://user-images.githubusercontent.com/89105781/194057442-8086413d-a747-4784-815f-e8c34f07584a.png)
 
-你的订阅链接需要替换到这里
+
+请将你的订阅链接替换到 [Proxy Group] 的 [外部节点] 中的 [配置链接]里 如下图
+
+[配置链接]这四个字加[]需要一起被替换
 
 ![image](https://user-images.githubusercontent.com/89105781/194056911-3fb06717-df47-4d8c-b366-4fb9da467f70.png)
 
