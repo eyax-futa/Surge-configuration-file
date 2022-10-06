@@ -15,7 +15,7 @@
 
 点击红色框出的文件后复制全部粘贴至Surge即可（Surge需要以文本格式编辑）
 
-或者复制后方链接在Surge中引用：https://raw.githubusercontent.com/MengYuLianMian/Surge-configuration-file-MengRain/main/Surge配置文件
+或者复制后方链接在Surge中引用：https://raw.githubusercontent.com/MengYuLianMian/Surge-configuration-file-MengRain/main/Surge%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6
 
 ![image](https://user-images.githubusercontent.com/89105781/194057442-8086413d-a747-4784-815f-e8c34f07584a.png)
 
