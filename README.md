@@ -4,9 +4,11 @@
 
 ![image](https://user-images.githubusercontent.com/89105781/193441318-94ece490-1d69-4435-a740-a995955b6413.png)
 
-我的TG频道：https://t.me/mengyulianmian 
+我的TG频道：[点击一键关注](https://t.me/mengyulianmian)
 
-我的TG聊群：https://t.me/mengdelaochao
+我的TG交流群：[点击一键加入](https://t.me/mengdelaochao)
+
+我的Twitter：[点击一键关注](https://mobile.twitter.com/mengyulianmian)
 
 感谢采用我的文件QwQ
 
